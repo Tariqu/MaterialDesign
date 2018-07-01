@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/New"
+        android:title="New"
+        app:showAsAction="never" >
+        <menu>
+            <item android:id="@+id/tarique" android:title="Tarique"/>
+            <item android:id="@+id/akhtar" android:title="Akhtar"/>
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/about"
+        android:title="Title"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Open"
+        android:title="Open"
+        app:showAsAction="never" />
+</menu>

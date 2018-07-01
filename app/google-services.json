@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501018151342",
+    "firebase_url": "https://materialdesign-d7524.firebaseio.com",
+    "project_id": "materialdesign-d7524",
+    "storage_bucket": "materialdesign-d7524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501018151342:android:e324e70b892a24c3",
+        "android_client_info": {
+          "package_name": "com.obaap.materialdesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501018151342-rr03oqjqt7eijiajf0bvd1likj852dnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obaap.materialdesign",
+            "certificate_hash": "1eaabe2a2edbb707c166bc4108bc510f51e2cdd4"
+          }
+        },
+        {
+          "client_id": "501018151342-lec79nvrrbthrvuqror36btnp03c2fen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4K_isd_zwjGslVa1ju430oakkNEIVwMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501018151342-lec79nvrrbthrvuqror36btnp03c2fen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
