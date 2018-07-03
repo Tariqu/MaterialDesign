@@ -4,7 +4,8 @@
     <item
         android:id="@+id/New"
         android:title="New"
-        app:showAsAction="never" >
+        app:showAsAction="never"
+        android:icon="@drawable/ic_folder">
         <menu>
             <item android:id="@+id/tarique" android:title="Tarique"/>
             <item android:id="@+id/akhtar" android:title="Akhtar"/>
@@ -14,9 +15,12 @@
     <item
         android:id="@+id/about"
         android:title="Title"
-        app:showAsAction="never" />
+        app:showAsAction="never"
+        android:icon="@drawable/ic_folder"/>
     <item
-        android:id="@+id/Open"
-        android:title="Open"
-        app:showAsAction="never" />
+        android:id="@+id/sign_out"
+        android:title="Sign out"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_folder"
+        android:visible="false"/>
 </menu>
